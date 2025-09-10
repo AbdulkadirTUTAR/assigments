@@ -1,0 +1,2 @@
+# assigments
+Yazılım öğreniyorum.
